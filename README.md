@@ -1,2 +1,2 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/humblestudent123/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/humblestudent123/frontend-project-44/actions)
+[![Actions Status](https://github.com/humblestudent123/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/humblestudent123/frontend-project-44/actions)# Brain-games1-2
